@@ -1,0 +1,16 @@
+h1 {
+	font-family: 'Francois One', sans-serif;
+	color: #1437AD;
+}
+
+h2, h3, h4, h5, h6, h7 {
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	color: #408AD2;
+	font-size: 20px;
+}
+
+#srcs {
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	color: #408AD2;
+	font-size: 20px;
+}	
