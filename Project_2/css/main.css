@@ -1,0 +1,115 @@
+body {
+	width: 1100px;
+	margin: auto;
+	background-color: #6CBCD5;
+}
+	/* headers styling  */
+
+h1 {
+	font-family: 'Francois One', sans-serif;
+	color: #1437AD;
+	width: 900px;
+	height: 100px;
+	padding: 20px;
+	margin: 50px;
+	border: 2px solid;
+    border-radius: 25px;
+    border-color: #E8D080;
+	box-shadow: 10px 10px 5px #9C9A95;
+	display:-webkit-box;
+	-webkit-box-pack:center;
+	-webkit-box-align:center;
+	background: #67E667;
+	opacity: 0.7;
+}
+
+h2, h3, h4, h5, h6, h7 {
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	color: #408AD2;
+	font-size: 20px;
+	text-shadow: 1px 1px #9C9A95;
+}
+
+h3 {
+	text-align: center;
+}
+
+	/* End of headers styling  */
+
+	/*  Google font  */
+#srcs {
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	color: #408AD2;
+	font-size: 20px;
+}	
+
+#locals {
+	float: right;
+}
+	/*  List-style-type */
+#inline1 {
+	list-style-type: none;
+}
+
+#inline2 {
+	list-style-type: none;
+}
+	/*  Display */
+#one {
+	border: 2px solid #030302;
+	margin: 2px;
+	display: inline;
+}
+
+#two {
+	border: 2px solid #030302;
+	margin: 2px;
+	display: inline;
+}
+
+#three {
+	border: 2px solid #030302;
+	margin: 2px;
+	display: inline;
+}
+
+#four {
+	border: 2px solid #030302;
+	margin: 2px;
+	display: inline;
+}
+
+#five {
+	border: 2px solid #030302;
+	margin: 2px;
+	display: inline;
+}
+
+
+#inlineimages {
+	list-style-type: none;
+}
+
+#six {
+	display: inline;
+}
+
+#seven {
+	display: inline;
+}
+
+#eight {
+	display: inline;
+}
+	/*  Link style */
+	
+a:link    {color:green;}
+a:visited {color:green;}
+a:hover   {color:red;}
+a:active  {color:yellow;}
+
+#fontstyle {
+	font-style: italic;
+	font-weight:bold;
+	line-height:200%;
+}
