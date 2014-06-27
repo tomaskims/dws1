@@ -1,0 +1,235 @@
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color:#333;
+    background: url("../images/surfboard.jpg");
+    background-repeat:repeat-y;
+   
+}
+
+p {
+    padding: 10px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    color: #408AD2;
+    font-size: 20px;
+    
+
+}
+
+#cruising {
+	font-size: 1em;
+}
+
+#wrapper {
+    width: 100%;
+    min-width: 1000px;
+    max-width: 2000px;
+    margin: 0 auto;
+}
+
+#header {
+	background-color: rgba(192, 171, 88, 0.2);
+	background: #67E667;
+	opacity: 0.7;
+	color: #1437AD;
+	text-align: center;
+	font-family: 'Francois One', sans-serif;
+	font-weight: lighter;
+	border: 1px solid blue;
+	font-size: 5em;
+	font-style: oblique;
+    float: left;
+    height: 150px;
+    width: 100%;
+    background-image:url("../images/sunset12.jpg");
+    background-repeat:no-repeat;
+    background-position:50%;
+}
+
+.titles {
+	text-align: center;
+	font-family: 'Francois One', sans-serif;
+	color: #1437AD;
+	font-size: 20px;
+	text-shadow: 1px 1px #9C9A95;
+}
+
+#navigation {
+	
+	font-family: 'Ceviche One', cursive;
+	font-size:2.5em;
+	background-color:#FFF;	
+	font-style: italic;
+    float: left;
+    height: 90px;
+    width: 100%;
+}
+
+#inlineimages .imagshow {
+	display: inline;
+	border: 2px solid #06472F;
+}
+
+#inline1 .tabs {
+	border: 2px solid #030302;
+	margin: 2px;
+	display: inline;
+}
+
+#contentliquid {
+    float: left;
+    width: 100%;
+}
+
+section {
+	padding: 10px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    color: #408AD2;
+    font-size: 25px;
+}
+
+#content {
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	background-position: 80% 50%; 
+	color:#0000FF;
+	text-transform: capitalize;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+li {
+	list-style-type:circle;
+		}
+
+#leftcolumn {
+	background-color: rgba(41, 141, 187, 0.6);
+	background: rgba(41, 141, 187, 0.6);
+	color: rgba(41, 141, 187, 0.6);
+	font-size:20px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	color:white;
+    width: 150px;
+    float: left;
+    margin-left:-100%;
+}
+
+#rightcolumn {
+	background: rgba(183,222,237,1);
+	color:white;
+	text-align:center;
+	font-size:15px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;    width: 150px;
+    float: left;
+    margin-left: -150px;
+}
+
+
+
+#footer {
+	background: linear-gradient(#E4EFF2, #97E1F7);
+	color: rgba(43, 141, 137, 0.6);
+	text-align:center;
+    height: 40px;
+    width: 100%;
+    clear: both;
+}
+
+.tg  {
+	border-collapse:collapse;
+	border-spacing:0;
+	margin:0px auto;
+}
+.tg td{
+	font-family:Arial, sans-serif;
+	font-size:14px;
+	padding:10px 5px;
+	border-style:solid;
+	border-width:1px;
+	overflow:hidden;
+	word-break:normal;
+}
+.tg th{
+	font-family:Arial, sans-serif;
+	font-size:14px;
+	font-weight:normal;
+	padding:10px 5px;
+	border-style:solid;
+	border-width:1px;
+	overflow:hidden;
+	word-break:normal;
+	text-transform:uppercase;
+	background-color: #408AD2; 
+}
+.tg .tg-s6z2{
+	text-align:center
+}
+
+.tg-s6z2:hover {
+	background-color: yellow;
+}
+
+.tg-031e:hover {
+	background-color: red;
+}
+
+
+label
+{
+width: 4em;
+float: left;
+text-align: right;
+margin-right: 0.5em;
+display: block
+}
+
+.submit input
+{
+margin-left: 4.5em;
+} 
+input
+{
+color: #781351;
+background: #fee3ad;
+border: 1px solid #781351
+}
+
+.submit input
+{
+color: #000;
+background: #ffa20f;
+border: 2px outset #d7b9c9
+} 
+fieldset
+{
+border: 1px solid #781351;
+width: 20em
+}
+
+legend
+{
+color: #fff;
+background: #ffa20c;
+border: 1px solid #781351;
+padding: 2px 6px
+}
+
+.submit input:hover {
+  cursor: pointer;
+  color: #900;
+}
+
+input:focus	{ 
+	background-color:yellow;
+}
+
+form {
+	float:right;
+}
+
+
+a:link { color: blue }
+a:visited { color: purple }
+a:hover { font-weight: bold }
+a:active { color: lime }
+
